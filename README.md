@@ -1,1 +1,3 @@
-# Nirali_123456
+Your name : Nirali
+Project Title : Lab 3
+Student Id : 8863049
